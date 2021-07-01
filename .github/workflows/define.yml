@@ -36,7 +36,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/mjleaumont/newIAT@main/README.md'
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/mjleaumont/newIAT/blob/'
+			image : 'https://github.com/mjleaumont/newIAT/blob/main/'
 		} 
 	});
 });
